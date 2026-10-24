@@ -11,7 +11,4 @@ int  main()
     else {
         cout<<"odd";
     }
-    return 0;
-    
-
-}
+    }
